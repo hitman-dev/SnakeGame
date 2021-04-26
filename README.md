@@ -8,6 +8,7 @@ It was developed by Wally Feurzeig, Seymour Parpet and Cynthina Slolomon in 1967
 Turtle is a pre-installed library in Python that is similar to the virtual canvas that we can draw pictures and attractive shapes. 
 It provides the onscreen pen that we can use for drawing.
 
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 
